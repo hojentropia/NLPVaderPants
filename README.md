@@ -8,4 +8,4 @@ Basic ETL was done and the Stopwords were removed. We used the langid library to
 
 To visualize the results, we used a boxplot and some barplots. We saw that the overall sentiment was slightly better during COVID. 
 
-![Boxplot](https://github.com/tograh/testrepository/master/3DTest.png 570)
+![Boxplot](https://raw.githubusercontent.com/hojentropia/NLPVaderPants/main/boxplot.png)
